@@ -1,0 +1,314 @@
+==================== Replication 0 ====================
+Time: 2023-11-28 00:55:07.722123
+---> [ground truth] Matching Score: 3.4833
+---> [ground truth] R_precision: (top 1): 0.4797 (top 2): 0.6700 (top 3): 0.7713 
+---> [Comp_v6_KLD01] Matching Score: 4.9159
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3213 (top 2): 0.4950 (top 3): 0.6108 
+Time: 2023-11-28 00:55:15.715731
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.3474
+Time: 2023-11-28 00:55:20.351444
+---> [ground truth] Diversity: 11.3622
+---> [Comp_v6_KLD01] Diversity: 11.7424
+Time: 2023-11-28 00:55:20.355266
+---> [Comp_v6_KLD01] Multimodality: 5.4400
+!!! DONE !!!
+==================== Replication 1 ====================
+Time: 2023-11-28 01:11:56.116672
+---> [ground truth] Matching Score: 3.4974
+---> [ground truth] R_precision: (top 1): 0.4838 (top 2): 0.6767 (top 3): 0.7744 
+---> [Comp_v6_KLD01] Matching Score: 4.9198
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3302 (top 2): 0.5017 (top 3): 0.6088 
+Time: 2023-11-28 01:12:04.238637
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.3979
+Time: 2023-11-28 01:12:08.468404
+---> [ground truth] Diversity: 11.6150
+---> [Comp_v6_KLD01] Diversity: 11.8338
+Time: 2023-11-28 01:12:08.473833
+---> [Comp_v6_KLD01] Multimodality: 5.6811
+!!! DONE !!!
+==================== Replication 2 ====================
+Time: 2023-11-28 01:29:20.289055
+---> [ground truth] Matching Score: 3.5127
+---> [ground truth] R_precision: (top 1): 0.4823 (top 2): 0.6683 (top 3): 0.7616 
+---> [Comp_v6_KLD01] Matching Score: 4.9627
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3168 (top 2): 0.4914 (top 3): 0.6034 
+Time: 2023-11-28 01:29:28.278870
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.5325
+Time: 2023-11-28 01:29:32.578277
+---> [ground truth] Diversity: 11.0995
+---> [Comp_v6_KLD01] Diversity: 12.1555
+Time: 2023-11-28 01:29:32.582346
+---> [Comp_v6_KLD01] Multimodality: 5.3718
+!!! DONE !!!
+==================== Replication 3 ====================
+Time: 2023-11-28 01:46:04.860649
+---> [ground truth] Matching Score: 3.5113
+---> [ground truth] R_precision: (top 1): 0.4774 (top 2): 0.6709 (top 3): 0.7655 
+---> [Comp_v6_KLD01] Matching Score: 4.9169
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3200 (top 2): 0.5013 (top 3): 0.6110 
+Time: 2023-11-28 01:46:12.954403
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.4546
+Time: 2023-11-28 01:46:17.535767
+---> [ground truth] Diversity: 10.8452
+---> [Comp_v6_KLD01] Diversity: 12.1628
+Time: 2023-11-28 01:46:17.541018
+---> [Comp_v6_KLD01] Multimodality: 5.6744
+!!! DONE !!!
+==================== Replication 4 ====================
+Time: 2023-11-28 02:04:16.858485
+---> [ground truth] Matching Score: 3.5203
+---> [ground truth] R_precision: (top 1): 0.4735 (top 2): 0.6711 (top 3): 0.7731 
+---> [Comp_v6_KLD01] Matching Score: 4.9214
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3220 (top 2): 0.5037 (top 3): 0.6162 
+Time: 2023-11-28 02:04:25.200445
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.3844
+Time: 2023-11-28 02:04:29.663825
+---> [ground truth] Diversity: 11.1635
+---> [Comp_v6_KLD01] Diversity: 12.0589
+Time: 2023-11-28 02:04:29.669375
+---> [Comp_v6_KLD01] Multimodality: 5.5002
+!!! DONE !!!
+==================== Replication 5 ====================
+Time: 2023-11-28 02:21:29.000448
+---> [ground truth] Matching Score: 3.5245
+---> [ground truth] R_precision: (top 1): 0.4761 (top 2): 0.6597 (top 3): 0.7621 
+---> [Comp_v6_KLD01] Matching Score: 4.9179
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3153 (top 2): 0.4989 (top 3): 0.6131 
+Time: 2023-11-28 02:21:37.311103
+---> [ground truth] FID: 0.0002
+---> [Comp_v6_KLD01] FID: 2.3841
+Time: 2023-11-28 02:21:41.846841
+---> [ground truth] Diversity: 11.0251
+---> [Comp_v6_KLD01] Diversity: 12.0014
+Time: 2023-11-28 02:21:41.851674
+---> [Comp_v6_KLD01] Multimodality: 5.4100
+!!! DONE !!!
+==================== Replication 6 ====================
+Time: 2023-11-28 02:38:58.562186
+---> [ground truth] Matching Score: 3.5310
+---> [ground truth] R_precision: (top 1): 0.4711 (top 2): 0.6575 (top 3): 0.7614 
+---> [Comp_v6_KLD01] Matching Score: 4.9559
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3194 (top 2): 0.4912 (top 3): 0.6075 
+Time: 2023-11-28 02:39:06.824392
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.3794
+Time: 2023-11-28 02:39:11.355967
+---> [ground truth] Diversity: 11.0822
+---> [Comp_v6_KLD01] Diversity: 11.9840
+Time: 2023-11-28 02:39:11.361599
+---> [Comp_v6_KLD01] Multimodality: 4.8868
+!!! DONE !!!
+==================== Replication 7 ====================
+Time: 2023-11-28 02:56:35.029042
+---> [ground truth] Matching Score: 3.5261
+---> [ground truth] R_precision: (top 1): 0.4800 (top 2): 0.6672 (top 3): 0.7683 
+---> [Comp_v6_KLD01] Matching Score: 4.9355
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3200 (top 2): 0.4983 (top 3): 0.6054 
+Time: 2023-11-28 02:56:43.300141
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.4508
+Time: 2023-11-28 02:56:47.676959
+---> [ground truth] Diversity: 10.9458
+---> [Comp_v6_KLD01] Diversity: 11.7874
+Time: 2023-11-28 02:56:47.682385
+---> [Comp_v6_KLD01] Multimodality: 5.6067
+!!! DONE !!!
+==================== Replication 8 ====================
+Time: 2023-11-28 03:13:59.832087
+---> [ground truth] Matching Score: 3.5317
+---> [ground truth] R_precision: (top 1): 0.4735 (top 2): 0.6713 (top 3): 0.7601 
+---> [Comp_v6_KLD01] Matching Score: 4.9953
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3067 (top 2): 0.4888 (top 3): 0.6101 
+Time: 2023-11-28 03:14:08.123236
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.3408
+Time: 2023-11-28 03:14:12.447121
+---> [ground truth] Diversity: 10.8710
+---> [Comp_v6_KLD01] Diversity: 12.5395
+Time: 2023-11-28 03:14:12.452402
+---> [Comp_v6_KLD01] Multimodality: 5.5503
+!!! DONE !!!
+==================== Replication 9 ====================
+Time: 2023-11-28 03:30:34.055912
+---> [ground truth] Matching Score: 3.5243
+---> [ground truth] R_precision: (top 1): 0.4806 (top 2): 0.6750 (top 3): 0.7688 
+---> [Comp_v6_KLD01] Matching Score: 4.8970
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3263 (top 2): 0.5006 (top 3): 0.6097 
+Time: 2023-11-28 03:30:42.222190
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.4431
+Time: 2023-11-28 03:30:46.638249
+---> [ground truth] Diversity: 11.2329
+---> [Comp_v6_KLD01] Diversity: 11.9298
+Time: 2023-11-28 03:30:46.643813
+---> [Comp_v6_KLD01] Multimodality: 5.6270
+!!! DONE !!!
+==================== Replication 10 ====================
+Time: 2023-11-28 03:46:19.450773
+---> [ground truth] Matching Score: 3.5296
+---> [ground truth] R_precision: (top 1): 0.4733 (top 2): 0.6634 (top 3): 0.7696 
+---> [Comp_v6_KLD01] Matching Score: 4.9236
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3166 (top 2): 0.5002 (top 3): 0.6125 
+Time: 2023-11-28 03:46:27.678505
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.3462
+Time: 2023-11-28 03:46:32.060284
+---> [ground truth] Diversity: 10.6562
+---> [Comp_v6_KLD01] Diversity: 12.0110
+Time: 2023-11-28 03:46:32.065774
+---> [Comp_v6_KLD01] Multimodality: 5.2943
+!!! DONE !!!
+==================== Replication 11 ====================
+Time: 2023-11-28 04:03:04.974287
+---> [ground truth] Matching Score: 3.5405
+---> [ground truth] R_precision: (top 1): 0.4825 (top 2): 0.6670 (top 3): 0.7672 
+---> [Comp_v6_KLD01] Matching Score: 4.9646
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3185 (top 2): 0.4918 (top 3): 0.6067 
+Time: 2023-11-28 04:03:13.130963
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.4796
+Time: 2023-11-28 04:03:17.502233
+---> [ground truth] Diversity: 10.7439
+---> [Comp_v6_KLD01] Diversity: 11.6635
+Time: 2023-11-28 04:03:17.507474
+---> [Comp_v6_KLD01] Multimodality: 4.7677
+!!! DONE !!!
+==================== Replication 12 ====================
+Time: 2023-11-28 04:20:20.623038
+---> [ground truth] Matching Score: 3.4909
+---> [ground truth] R_precision: (top 1): 0.4899 (top 2): 0.6765 (top 3): 0.7679 
+---> [Comp_v6_KLD01] Matching Score: 4.8982
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3239 (top 2): 0.5022 (top 3): 0.6091 
+Time: 2023-11-28 04:20:28.881366
+---> [ground truth] FID: 0.0002
+---> [Comp_v6_KLD01] FID: 2.3852
+Time: 2023-11-28 04:20:33.793679
+---> [ground truth] Diversity: 10.3910
+---> [Comp_v6_KLD01] Diversity: 12.1717
+Time: 2023-11-28 04:20:33.798692
+---> [Comp_v6_KLD01] Multimodality: 5.6693
+!!! DONE !!!
+==================== Replication 13 ====================
+Time: 2023-11-28 04:37:51.381604
+---> [ground truth] Matching Score: 3.5201
+---> [ground truth] R_precision: (top 1): 0.4789 (top 2): 0.6744 (top 3): 0.7720 
+---> [Comp_v6_KLD01] Matching Score: 4.9149
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3261 (top 2): 0.5034 (top 3): 0.6123 
+Time: 2023-11-28 04:37:59.909195
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.2657
+Time: 2023-11-28 04:38:04.728035
+---> [ground truth] Diversity: 10.6539
+---> [Comp_v6_KLD01] Diversity: 11.8130
+Time: 2023-11-28 04:38:04.734862
+---> [Comp_v6_KLD01] Multimodality: 5.1264
+!!! DONE !!!
+==================== Replication 14 ====================
+Time: 2023-11-28 04:55:21.081023
+---> [ground truth] Matching Score: 3.4785
+---> [ground truth] R_precision: (top 1): 0.4769 (top 2): 0.6709 (top 3): 0.7733 
+---> [Comp_v6_KLD01] Matching Score: 4.9446
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3194 (top 2): 0.4981 (top 3): 0.6119 
+Time: 2023-11-28 04:55:29.319871
+---> [ground truth] FID: 0.0002
+---> [Comp_v6_KLD01] FID: 2.2629
+Time: 2023-11-28 04:55:33.751087
+---> [ground truth] Diversity: 10.7896
+---> [Comp_v6_KLD01] Diversity: 11.7129
+Time: 2023-11-28 04:55:33.759336
+---> [Comp_v6_KLD01] Multimodality: 5.3003
+!!! DONE !!!
+==================== Replication 15 ====================
+Time: 2023-11-28 05:12:43.637475
+---> [ground truth] Matching Score: 3.5376
+---> [ground truth] R_precision: (top 1): 0.4748 (top 2): 0.6672 (top 3): 0.7623 
+---> [Comp_v6_KLD01] Matching Score: 4.9215
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3321 (top 2): 0.5084 (top 3): 0.6207 
+Time: 2023-11-28 05:12:52.030467
+---> [ground truth] FID: 0.0005
+---> [Comp_v6_KLD01] FID: 2.3485
+Time: 2023-11-28 05:12:56.602270
+---> [ground truth] Diversity: 11.0951
+---> [Comp_v6_KLD01] Diversity: 12.0364
+Time: 2023-11-28 05:12:56.608073
+---> [Comp_v6_KLD01] Multimodality: 5.5616
+!!! DONE !!!
+==================== Replication 16 ====================
+Time: 2023-11-28 05:29:25.808412
+---> [ground truth] Matching Score: 3.5258
+---> [ground truth] R_precision: (top 1): 0.4685 (top 2): 0.6599 (top 3): 0.7614 
+---> [Comp_v6_KLD01] Matching Score: 4.9666
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3194 (top 2): 0.4972 (top 3): 0.6116 
+Time: 2023-11-28 05:29:34.207115
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.2828
+Time: 2023-11-28 05:29:38.707631
+---> [ground truth] Diversity: 10.9685
+---> [Comp_v6_KLD01] Diversity: 12.5244
+Time: 2023-11-28 05:29:38.712970
+---> [Comp_v6_KLD01] Multimodality: 5.4670
+!!! DONE !!!
+==================== Replication 17 ====================
+Time: 2023-11-28 05:46:25.690295
+---> [ground truth] Matching Score: 3.5293
+---> [ground truth] R_precision: (top 1): 0.4782 (top 2): 0.6675 (top 3): 0.7685 
+---> [Comp_v6_KLD01] Matching Score: 4.9611
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3134 (top 2): 0.4901 (top 3): 0.6043 
+Time: 2023-11-28 05:46:34.440056
+---> [ground truth] FID: 0.0004
+---> [Comp_v6_KLD01] FID: 2.2235
+Time: 2023-11-28 05:46:38.973887
+---> [ground truth] Diversity: 11.1110
+---> [Comp_v6_KLD01] Diversity: 12.0512
+Time: 2023-11-28 05:46:38.976774
+---> [Comp_v6_KLD01] Multimodality: 4.7899
+!!! DONE !!!
+==================== Replication 18 ====================
+Time: 2023-11-28 06:03:14.648823
+---> [ground truth] Matching Score: 3.5035
+---> [ground truth] R_precision: (top 1): 0.4707 (top 2): 0.6698 (top 3): 0.7752 
+---> [Comp_v6_KLD01] Matching Score: 4.9367
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3220 (top 2): 0.5011 (top 3): 0.6123 
+Time: 2023-11-28 06:03:23.088323
+---> [ground truth] FID: 0.0002
+---> [Comp_v6_KLD01] FID: 2.3827
+Time: 2023-11-28 06:03:27.588999
+---> [ground truth] Diversity: 10.9723
+---> [Comp_v6_KLD01] Diversity: 12.0135
+Time: 2023-11-28 06:03:27.594984
+---> [Comp_v6_KLD01] Multimodality: 5.6978
+!!! DONE !!!
+==================== Replication 19 ====================
+Time: 2023-11-28 06:20:44.568653
+---> [ground truth] Matching Score: 3.5301
+---> [ground truth] R_precision: (top 1): 0.4767 (top 2): 0.6649 (top 3): 0.7603 
+---> [Comp_v6_KLD01] Matching Score: 4.9882
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.3149 (top 2): 0.4862 (top 3): 0.6034 
+Time: 2023-11-28 06:20:52.786228
+---> [ground truth] FID: 0.0003
+---> [Comp_v6_KLD01] FID: 2.3711
+Time: 2023-11-28 06:20:57.247724
+---> [ground truth] Diversity: 10.8021
+---> [Comp_v6_KLD01] Diversity: 12.2438
+Time: 2023-11-28 06:20:57.252798
+---> [Comp_v6_KLD01] Multimodality: 4.9173
+!!! DONE !!!
+========== Matching Score Summary ==========
+---> [ground truth] Mean: 3.5174 CInterval: 0.0076
+---> [Comp_v6_KLD01] Mean: 4.9379 CInterval: 0.0120
+========== R_precision Summary ==========
+---> [ground truth](top 1) Mean: 0.4774 CInt: 0.0022;(top 2) Mean: 0.6685 CInt: 0.0023;(top 3) Mean: 0.7672 CInt: 0.0022;
+---> [Comp_v6_KLD01](top 1) Mean: 0.3202 CInt: 0.0025;(top 2) Mean: 0.4975 CInt: 0.0025;(top 3) Mean: 0.6100 CInt: 0.0018;
+========== FID Summary ==========
+---> [ground truth] Mean: 0.0003 CInterval: 0.0000
+---> [Comp_v6_KLD01] Mean: 2.3732 CInterval: 0.0329
+========== Diversity Summary ==========
+---> [ground truth] Mean: 10.9713 CInterval: 0.1166
+---> [Comp_v6_KLD01] Mean: 12.0218 CInterval: 0.1018
+========== MultiModality Summary ==========
+---> [Comp_v6_KLD01] Mean: 5.3670 CInterval: 0.1321
